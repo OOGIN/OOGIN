@@ -10,12 +10,16 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-grey?stlye=for-the-badge&logo=MYSQL&logoColor=ffffff)
 ![python](https://img.shields.io/badge/-python-323232?stlye=for-the-badge&logo=python)
    
-## 연락처
-📧Email: guncunqum.09@gmail.com
+## 연락처 
+![Instagram](https://img.shields.io/badge/-Instagram-ffffff?stlye=for-the-badge&logo=instagram)   loogin_k.h /  enjoylife.04
+   <br>
+![gmail](https://img.shields.io/badge/-Gmail-ffffff?stlye=for-the-badge&logo=Gmail): guncunqum.09@gmail.com
   <br>
-📗Naver: ruscksqja@naver.com
+![Naver](https://img.shields.io/badge/-Naver-228c22?stlye=for-the-badge&logo=Naver) ruscksqja@naver.com
   <br>
-<img src="https://ifh.cc/g/wjDPkq.png" width="15">Discord: Loogin(루긴)#9184
+![인스타](https://img.shields.io/badge/-Discord-000000?stlye=for-the-badge&logo=discord) Loogin(루긴)#9184
   
  ## 학교
-  🏫 <a href="http://inpyung.icehs.kr/main.do">인평자동차고등학교</a>
+  🏫 <a href="http://inpyung.icehs.kr/main.do">인평자동차고등학교</a><br>
+  ![IT](https://img.shields.io/badge/-IT학과-000000)
+  ![학년](https://img.shields.io/badge/-3학년-000000)
