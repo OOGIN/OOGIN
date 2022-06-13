@@ -10,7 +10,13 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-grey?stlye=for-the-badge&logo=MYSQL&logoColor=ffffff)
 ![python](https://img.shields.io/badge/-python-323232?stlye=for-the-badge&logo=python)
    
-## 연락처 
+## 자격증 📜
+   ![정처기](https://img.shields.io/badge/-정보처리기능사(7/1일결과발표)-FFFFFF)
+   <br>
+   ![ITQ](https://img.shields.io/badge/-ITQ한글(B)-FFFFFF)
+   ![웹디](https://img.shields.io/badge/-웹디자인기능사-FFFFFF)
+   
+## 연락처 ☎
 ![Instagram](https://img.shields.io/badge/-Instagram-ffffff?stlye=for-the-badge&logo=instagram)   loogin_k.h /  enjoylife.04
    <br>
 ![gmail](https://img.shields.io/badge/-Gmail-ffffff?stlye=for-the-badge&logo=Gmail): guncunqum.09@gmail.com
@@ -19,7 +25,11 @@
   <br>
 ![인스타](https://img.shields.io/badge/-Discord-000000?stlye=for-the-badge&logo=discord) Loogin(루긴)#9184
   
- ## 학교
+ ## 기타정보 🧾
   🏫 <a href="http://inpyung.icehs.kr/main.do">인평자동차고등학교</a><br>
   ![IT](https://img.shields.io/badge/-IT학과-000000)
   ![학년](https://img.shields.io/badge/-3학년-000000)
+   <br>
+  🏙 도제교육 으로 기업에서 공부
+   <br>
+  🎁생일 12월 31일 .04년생
