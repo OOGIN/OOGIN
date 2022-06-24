@@ -16,7 +16,7 @@
    ![ITQ](https://img.shields.io/badge/-ITQ한글(B)-FFFFFF)
    ![웹디](https://img.shields.io/badge/-웹디자인기능사-FFFFFF)
    <br>
-   ![컴그](https://img.shields.io/badge/-컴퓨터그래픽스운용기능사(6/23일실기시험)-FFFFFF)
+   ![컴그](https://img.shields.io/badge/-컴퓨터그래픽스운용기능사(7/22일결과발표)-FFFFFF)
    
 ## 연락처 ☎
 ![Instagram](https://img.shields.io/badge/-Instagram-ffffff?stlye=for-the-badge&logo=instagram)   loogin_k.h /  enjoylife.04
