@@ -11,7 +11,7 @@
 ![python](https://img.shields.io/badge/-python-323232?stlye=for-the-badge&logo=python)
    
 ## 자격증 📜
-   ![정처기](https://img.shields.io/badge/-정보처리기능사(7/1일결과발표)-FFFFFF)
+   ![정처기](https://img.shields.io/badge/-정보처리기능사(필기)-FFFFFF)
    <br>
    ![ITQ](https://img.shields.io/badge/-ITQ한글(B)-FFFFFF)
    ![웹디](https://img.shields.io/badge/-웹디자인기능사-FFFFFF)
