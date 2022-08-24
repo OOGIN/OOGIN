@@ -10,9 +10,8 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-grey?stlye=for-the-badge&logo=MYSQL&logoColor=ffffff)
 ![python](https://img.shields.io/badge/-python-323232?stlye=for-the-badge&logo=python)
 <br>
-![c#](https://img.shields.io/badge/-c#-
-purple2?stlye=for-the-badge&logo=c#)
-![c++](https://img.shields.io/badge/-c++-323232?stlye=for-the-badge&logo=c)
+![c#](https://img.shields.io/badge/-C＃-purple?stlye=for-the-badge&logo=c)
+![c++](https://img.shields.io/badge/-C++-blue?stlye=for-the-badge&logo=c)
    
 ## 자격증 📜
    ![정처기](https://img.shields.io/badge/-정보처리기능사(필기)-FFFFFF)
