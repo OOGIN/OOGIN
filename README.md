@@ -1,8 +1,8 @@
-## 제 프로필에 오신걸 환영합니다✨ <br><br>메인언어 <img src="https://ifh.cc/g/ScZL6o.gif" width="50">
-![c%23](https://img.shields.io/badge/-C%23-purple?stlye=for-the-badge&logo=c)
-
+## 제 프로필에 오신걸 환영합니다✨ <br><br> 메인 언어들 🎆
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br><br>
-## 현재 공부중인 언어들 <br>
+## 현재 공부중인 언어들 <img src="https://ifh.cc/g/ScZL6o.gif" width="50"><br>
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?stlye=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?stlye=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-JAVA-2b2b61?stlye=for-the-badge&logo=JAVA)
@@ -13,9 +13,6 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-grey?stlye=for-the-badge&logo=MYSQL&logoColor=ffffff)
 ![python](https://img.shields.io/badge/-python-323232?stlye=for-the-badge&logo=python)
 <br>
-![c#](https://img.shields.io/badge/-C%23-purple?stlye=for-the-badge&logo=c)
-![c++](https://img.shields.io/badge/-C++-blue?stlye=for-the-badge&logo=c)
-
 
    
 ## 자격증 📜
@@ -33,7 +30,13 @@
 ![Naver](https://img.shields.io/badge/-Naver-228c22?stlye=for-the-badge&logo=Naver) ruscksqja@naver.com
   <br>
 ![인스타](https://img.shields.io/badge/-Discord-000000?stlye=for-the-badge&logo=discord) Loogin(루긴)#9184
-  
+
+## 목표🌈
+ 4년재<br>
+![가천대](https://img.shields.io/badge/-가천대학교-blue) ![학과](https://img.shields.io/badge/-게임학과(4년제)-000000) <br>
+![한공대](https://img.shields.io/badge/-한국공학대학교-ffffff) ![학과](https://img.shields.io/badge/-게임공학과(4년제)-000000)<br>
+![인하공전](https://img.shields.io/badge/-인하공업전문대학-ffffff) ![학과](https://img.shields.io/badge/-시스템과(3년제)-000000)
+
  ## 기타정보 🧾
   🏫 <a href="http://inpyung.icehs.kr/main.do">인평자동차고등학교</a><br>
   ![IT](https://img.shields.io/badge/-IT학과-000000)
