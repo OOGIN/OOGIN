@@ -1,5 +1,8 @@
-## 제 프로필에 오신걸 환영합니다✨ <br><br> 현재 공부중인 언어들 <img src="https://ifh.cc/g/ScZL6o.gif" width="50">
+## 제 프로필에 오신걸 환영합니다✨ <br><br>메인언어 <img src="https://ifh.cc/g/ScZL6o.gif" width="50">
+![c%23](https://img.shields.io/badge/-C%23-purple?stlye=for-the-badge&logo=c)
 
+<br><br>
+## 현재 공부중인 언어들 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?stlye=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?stlye=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-JAVA-2b2b61?stlye=for-the-badge&logo=JAVA)
@@ -10,8 +13,10 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-grey?stlye=for-the-badge&logo=MYSQL&logoColor=ffffff)
 ![python](https://img.shields.io/badge/-python-323232?stlye=for-the-badge&logo=python)
 <br>
-![c#](https://img.shields.io/badge/-C＃-purple?stlye=for-the-badge&logo=c)
+![c#](https://img.shields.io/badge/-C%23-purple?stlye=for-the-badge&logo=c)
 ![c++](https://img.shields.io/badge/-C++-blue?stlye=for-the-badge&logo=c)
+
+
    
 ## 자격증 📜
    ![정처기](https://img.shields.io/badge/-정보처리기능사(필기)-FFFFFF)
