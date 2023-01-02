@@ -32,10 +32,9 @@
 ![인스타](https://img.shields.io/badge/-Discord-000000?stlye=for-the-badge&logo=discord) Loogin(루긴)#9184
 
 ## 목표🌈
- 4년재<br>
-![가천대](https://img.shields.io/badge/-가천대학교-blue) ![학과](https://img.shields.io/badge/-게임학과(4년제)-000000) <br>
-![한공대](https://img.shields.io/badge/-한국공학대학교-ffffff) ![학과](https://img.shields.io/badge/-게임공학과(4년제)-000000)<br>
-![인하공전](https://img.shields.io/badge/-인하공업전문대학-gray) ![학과](https://img.shields.io/badge/-시스템과(3년제)-000000)
+ 2023년<br>
+![경기과학기술대](https://img.shields.io/badge/-경기과학기술대-blue) ![학과](https://img.shields.io/badge/-게임학과(4년제)-000000) <br>
+
 
  ## 기타정보 🧾
   🏫 <a href="http://inpyung.icehs.kr/main.do">인평자동차고등학교</a><br>
