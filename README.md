@@ -2,7 +2,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br><br>
-## 현재 공부중인 언어들 <img src="https://ifh.cc/g/ScZL6o.gif" width="50"><br>
+## 현재 공부중인 언어들 <img src="https://ifh.cc/g/Z56Zhv.gif" width="50"><br>
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?stlye=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?stlye=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-JAVA-2b2b61?stlye=for-the-badge&logo=JAVA)
