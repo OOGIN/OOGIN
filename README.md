@@ -8,10 +8,10 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-2b2b61?stlye=for-the-badge&logo=JAVA)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-000000?stlye=for-the-badge&logo=JAVASCRIPT)
 <BR>
-![React](https://img.shields.io/badge/-React-black?stlye=for-the-badge&logo=React)
+![MariaDB](https://img.shields.io/badge/-MariaDB-black?stlye=for-the-badge&logo=MariaDB)
 ![Git](https://img.shields.io/badge/-Git-red?stlye=for-the-badge&logo=Git&logoColor=ffffff)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-grey?stlye=for-the-badge&logo=MYSQL&logoColor=ffffff)
-![python](https://img.shields.io/badge/-python-323232?stlye=for-the-badge&logo=python)
+![Heidisql](https://img.shields.io/badge/-Heidisql-323232?stlye=for-the-badge&logo=Heidisql)
 <br>
 
    
