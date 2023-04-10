@@ -33,14 +33,14 @@
 
 ## 목표🌈
  2023년<br>
-![경기과학기술대](https://img.shields.io/badge/-경기과학기술대-blue) ![학과](https://img.shields.io/badge/-게임학과(4년제)-000000) <br>
+![React](https://img.shields.io/badge/-React-blue)<br>
 
 
  ## 기타정보 🧾
-  🏫 <a href="http://inpyung.icehs.kr/main.do">인평자동차고등학교</a><br>
-  ![IT](https://img.shields.io/badge/-IT학과-000000)
-  ![학년](https://img.shields.io/badge/-3학년-000000)
+  🏫 <a href="http://inpyung.icehs.kr/main.do">경기과학기술대</a><br>
+  ![스마트제어소프트웨어과](https://img.shields.io/badge/-스마트제어소프트웨어과-000000)
+  ![학번](https://img.shields.io/badge/-23학번-000000)
    <br>
-  🏙 도제교육 으로 기업에서 공부
+  🏢<a href="http://inpyung.icehs.kr/main.do">두나정보기술</a><br>
    <br>
   🎁생일 12월 31일 .04년생
