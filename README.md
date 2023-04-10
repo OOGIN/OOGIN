@@ -1,15 +1,16 @@
 ## 제 프로필에 오신걸 환영합니다✨ <br><br> 메인 언어들 🎆
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<br><br>
-## 현재 공부중인 언어들 <img src="https://ifh.cc/g/Z56Zhv.gif" width="50"><br>
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?stlye=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?stlye=for-the-badge&logo=CSS3&logoColor=ffffff)
-![JAVA](https://img.shields.io/badge/-JAVA-2b2b61?stlye=for-the-badge&logo=JAVA)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-000000?stlye=for-the-badge&logo=JAVASCRIPT)
+<br>
+![C#](https://img.shields.io/badge/-C＃-blue?stlye=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+## 현재 공부중인 언어들 <img src="https://ifh.cc/g/Z56Zhv.gif" width="50"><br>
+![JAVA](https://img.shields.io/badge/-JAVA-2b2b61?stlye=for-the-badge&logo=JAVA)
+![React](https://img.shields.io/badge/-React-blue?stlye=for-the-badge&logo=React&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-c++-blue?stlye=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-red?stlye=for-the-badge&logo=Git&logoColor=ffffff)
 <BR>
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?stlye=for-the-badge&logo=MariaDB)
-![Git](https://img.shields.io/badge/-Git-red?stlye=for-the-badge&logo=Git&logoColor=ffffff)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-grey?stlye=for-the-badge&logo=MYSQL&logoColor=ffffff)
 ![Heidisql](https://img.shields.io/badge/-Heidisql-323232?stlye=for-the-badge&logo=Heidisql)
 <br>
@@ -34,7 +35,7 @@
 ## 목표🌈
  2023년<br>
 ![웹 퍼블리싱](https://img.shields.io/badge/-웹_퍼블리싱-FF9C00)<br>
-![React](https://img.shields.io/badge/-React-blue)<br>
+![React](https://img.shields.io/badge/-React-blue?stlye=for-the-badge&logo=React&logoColor=ffffff)<br>
 
  ## 기타정보 🧾
   🏫 <a href="http://[inpyung.icehs.kr](https://www.gtec.ac.kr/index.do)/main.do">경기과학기술대</a><br>
