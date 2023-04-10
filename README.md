@@ -33,6 +33,7 @@
 
 ## 목표🌈
  2023년<br>
+![웹 퍼블리싱](https://img.shields.io/badge/-웹 퍼블리싱-blue)<br>
 ![React](https://img.shields.io/badge/-React-blue)<br>
 
  ## 기타정보 🧾
