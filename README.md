@@ -35,12 +35,11 @@
  2023년<br>
 ![React](https://img.shields.io/badge/-React-blue)<br>
 
-
  ## 기타정보 🧾
-  🏫 <a href="http://inpyung.icehs.kr/main.do">경기과학기술대</a><br>
+  🏫 <a href="http://[inpyung.icehs.kr](https://www.gtec.ac.kr/index.do)/main.do">경기과학기술대</a><br>
   ![스마트제어소프트웨어과](https://img.shields.io/badge/-스마트제어소프트웨어과-000000)
   ![학번](https://img.shields.io/badge/-23학번-000000)
    <br>
-  🏢<a href="http://inpyung.icehs.kr/main.do">두나정보기술</a><br>
+  🏢<a href="http://[inpyung.icehs.kr](https://doonaint.net/)/main.do">두나정보기술</a><br>
    <br>
   🎁생일 12월 31일 .04년생
