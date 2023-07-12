@@ -7,7 +7,7 @@
 ## 현재 공부중인 언어들 <img src="https://ifh.cc/g/Z56Zhv.gif" width="50"><br>
 ![JAVA](https://img.shields.io/badge/-JAVA-2b2b61?stlye=for-the-badge&logo=JAVA)
 ![React](https://img.shields.io/badge/-React-blue?stlye=for-the-badge&logo=React&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-c++-blue?stlye=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+![WPF](https://img.shields.io/badge/-WPF-blue?stlye=for-the-badge&logo=WPF%2B%2B&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-red?stlye=for-the-badge&logo=Git&logoColor=ffffff)
 <BR>
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?stlye=for-the-badge&logo=MariaDB)
