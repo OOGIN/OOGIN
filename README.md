@@ -17,7 +17,7 @@
 
    
 ## 자격증 📜
-   ![정처기](https://img.shields.io/badge/-정보처리기능사(필기)-FFFFFF)
+   ![정처기](https://img.shields.io/badge/-정보처리기능사-FFFFFF)
    <br>
    ![ITQ](https://img.shields.io/badge/-ITQ한글(B)-FFFFFF)
    ![웹디](https://img.shields.io/badge/-웹디자인기능사-FFFFFF)
