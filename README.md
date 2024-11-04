@@ -29,9 +29,6 @@
 ![gmail](https://img.shields.io/badge/-Gmail-ffffff?stlye=for-the-badge&logo=Gmail) guncunqum.09@gmail.com
   <br>
 ![Naver](https://img.shields.io/badge/-Naver-228c22?stlye=for-the-badge&logo=Naver) ruscksqja@naver.com
-  <br>
-![인스타](https://img.shields.io/badge/-Discord-000000?stlye=for-the-badge&logo=discord) Loogin(루긴)#9184
-
 ## 목표🌈
  2023년<br>
 ![웹 퍼블리싱](https://img.shields.io/badge/-웹_퍼블리싱-FF9C00)<br>
