@@ -24,8 +24,6 @@
    <br>
    
 ## 연락처 ☎
-![Instagram](https://img.shields.io/badge/-Instagram-ffffff?stlye=for-the-badge&logo=instagram)   loogin_k.h /  enjoylife.04
-   <br>
 ![gmail](https://img.shields.io/badge/-Gmail-ffffff?stlye=for-the-badge&logo=Gmail) guncunqum.09@gmail.com
   <br>
 ![Naver](https://img.shields.io/badge/-Naver-228c22?stlye=for-the-badge&logo=Naver) ruscksqja@naver.com
