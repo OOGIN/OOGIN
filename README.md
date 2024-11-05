@@ -28,7 +28,6 @@
   <br>
 ![Naver](https://img.shields.io/badge/-Naver-228c22?stlye=for-the-badge&logo=Naver) ruscksqja@naver.com
 ## 목표🌈
- 2023년<br>
 ![웹 퍼블리싱](https://img.shields.io/badge/-웹_퍼블리싱-FF9C00)<br>
 ![React](https://img.shields.io/badge/-React-blue?stlye=for-the-badge&logo=React&logoColor=ffffff)<br>
 
